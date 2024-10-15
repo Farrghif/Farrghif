@@ -9,7 +9,7 @@
 <a href="https://instagram.com/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <img height="200em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farrghif&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
-<img height="200em" width="855em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=great-gatsby"> 
+<img height="200em" width="855em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=dracula"> 
 
 
 
