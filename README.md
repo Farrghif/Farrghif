@@ -1,5 +1,5 @@
 <img height="200em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farrghif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img height="200em" width="855em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=dracula"> 
+<img height="200em" width="855em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=great-gatsby"> 
 
 
 
