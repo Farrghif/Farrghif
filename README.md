@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Allah
 - 📫 How to reach me : jus DM me
 -  😄 Pronouns: Unknown
-- ⚡ Fun fact: I need too improvw
+- ⚡ Fun fact: I need too improve
 
 <!---
 Farrghif/Farrghif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
