@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I still learning
 
   
-<a href="http://github.com/alannarisse">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="http://github.com/Farrghif">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="http://instagram.com/alannarisse">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <img height="200em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farrghif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
