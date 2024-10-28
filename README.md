@@ -8,8 +8,8 @@
 <a href="https://github.com/Farrghif">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://instagram.com/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-<a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuramai&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<a href="https://github.com/Farrghif">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farrghif&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/zuramai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8" />
