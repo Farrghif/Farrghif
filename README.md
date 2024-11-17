@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I still learning
 
   
-<a href="https://github.com/profile/Farrghif">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="https://instagram.com/profile/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://github.com/Farrghif">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://instagram.com/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://monkeytype.com/profile/FarrAway1">![monkeytype](https://img.shields.io/badge/Monkeytype-33372C?style=for-the-badge&logo=Monkeytype&logoColor=yellow)</a>
 
 <a href="https://github.com/Farrghif">
