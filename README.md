@@ -16,6 +16,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=chartreuse-dark&langs_count=999999" />
 </a>
 
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,cs,unity,vue,bootstrap,tailwind&theme=dark" />
+</p>
+
 
 
 <!---
