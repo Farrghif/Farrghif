@@ -1,3 +1,5 @@
+## 🧍 about me
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FF363600&width=435&lines=Software+Engineer;Game+Developer;Fullstack+Developer;Robotic+Enthusiast)](https://git.io/typing-svg)
 
 - 👋 Hi, My name is Farrel Ghifari
@@ -12,7 +14,7 @@
 <a href="https://monkeytype.com/profile/FarrAway1">![monkeytype](https://img.shields.io/badge/Monkeytype-33372C?style=for-the-badge&logo=Monkeytype&logoColor=yellow)</a>
 <a href="https://discord.com/channels/@me">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)</a>
 
-## 📊 MybGitHub Stat
+## 📊 My GitHub Stat
 
 <a href="https://github.com/Farrghif">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farrghif&count_private=true&show_icons=true&theme=chartreuse-dark" />
