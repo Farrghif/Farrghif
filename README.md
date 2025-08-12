@@ -4,6 +4,8 @@
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning All programing language
 -  😄 Pronouns: Unknown
+
+  ## 📞 Contact me
   
 <a href="https://github.com/Farrghif">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://instagram.com/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
