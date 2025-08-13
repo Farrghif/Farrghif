@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning All programing language
 -  😄 Pronouns: Unknown
 
-  https://komarev.com/ghpvc/?username=Farrghif&color=blue
+![Profile Views](https://komarev.com/ghpvc/?username=Farrghif&color=blue)
+![Followers](https://img.shields.io/github/followers/Farrghif?label=Follow&style=social)
 
   ## 📞 Lets Connect
   
