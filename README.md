@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Farrel%20ghifari&fontAlign=50&fontAlignY=35&descAlignY=50&textBg=false&fontSize=55&desc=ファレル・ギファリ%20(Fareru%20gifari)&descAlign=29
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Farrel%20ghifari&fontAlign=50&fontAlignY=35&descAlignY=50&textBg=false&fontSize=55&desc=ファレル・ギファリ%20(Fareru%20gifari)&descAlign=29).
 
 ## 🧍 about me
 
