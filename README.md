@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farrghif&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Farrghif">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=chartreuse-dark&langs_count=999999999999" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=chartreuse-dark&langs_count=99999999" />
 </a>
 
 ## 🔧 Tech Stack
