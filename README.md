@@ -34,7 +34,7 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,django,kotlin,jquery,react,cs,c,cpp,fastapi,figma,ruby,sqlite,python,linux,unity,java,vue,bootstrap,vscode,nodejs,arduino,bash,docker,gradle,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,c,cpp,fastapi,figma,sqlite,python,linux,unity,java,vue,bootstrap,vscode,nodejs,arduino,bash,docker,gradle,tailwind&theme=dark" />
 </p>
 
 
