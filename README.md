@@ -4,7 +4,7 @@
 
 ## 🧍 about me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FF363600&width=435&lines=Software+Engineer;Game+Developer;Fullstack+Developer;Robotic+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF00&width=435&lines=Software+Engineer;Robotic+Enthusiast)](https://git.io/typing-svg))
 
 
 - 👋 Hi, My name is Farrel Ghifari
