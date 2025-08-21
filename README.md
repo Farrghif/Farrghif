@@ -3,9 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧍 about me
-
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF00&width=435&lines=Software+Engineer;Robotic+Enthusiast)](https://git.io/typing-svg))
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF00&width=435&lines=Software+Engineer;Robotic+Enthusiast)](https://git.io/typing-svg)
 
 - 👋 Hi, My name is Farrel Ghifari
 - 👀 I’m interested in Game Dev
