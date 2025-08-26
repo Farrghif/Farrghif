@@ -32,7 +32,7 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,fastapi,figma,sqlite,python,linux,unity,java,bootstrap,vscode,arduino,gradle,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,fastapi,sqlite,python,linux,unity,java,bootstrap,arduino,gradle,tailwind&theme=dark" />
 </p>
 
 
