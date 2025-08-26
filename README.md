@@ -26,13 +26,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farrghif&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Farrghif">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=chartreuse-dark&langs_count=99999999" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=chartreuse-dark&langs_count=999999999" />
 </a>
 
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,c,cpp,fastapi,figma,sqlite,python,linux,unity,java,vue,bootstrap,vscode,nodejs,arduino,bash,docker,gradle,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,fastapi,figma,sqlite,python,linux,unity,java,bootstrap,vscode,arduino,gradle,tailwind&theme=dark" />
 </p>
 
 
