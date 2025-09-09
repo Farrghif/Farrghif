@@ -7,7 +7,7 @@
 
 - 👋 Hi, My name is Farrel Ghifari
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning All programing language
+- 🌱 I’m currently learning web development, and mobile application development
 -  😄 Pronouns: Unknown
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Farrghif&color=blue)
