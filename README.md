@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Farrel%20ghifari&fontAlign=50&fontAlignY=35&descAlignY=50&textBg=false&fontSize=55&desc=ファレル・ギファリ%20(Fareru%20gifari)&descAlign=29)
 
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://pin.it/5STDuYhVP)">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧍 about me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF00&width=435&lines=Software+Engineer;Robotic+Enthusiast)](https://git.io/typing-svg)
