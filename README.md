@@ -19,16 +19,7 @@
 
 ## 📊 My GitHub Stat
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Rells&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rells&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-</table>
+
 
 ## 🔧 Tech Stack
 
