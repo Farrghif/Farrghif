@@ -19,7 +19,7 @@
 
 ## 📊 My GitHub Stat
 
-<h1>ERROR</h1>
+ERROR(404)
 
 
 ## 🔧 Tech Stack
