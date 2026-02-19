@@ -32,7 +32,7 @@
 </p>
   </tr>
   <tr>
-    <td align="center" valign="bottom">
+    <td align="center" valign="bottom" width="100%">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrghif&theme=tokyonight"/>
       </td>
     </tr>
