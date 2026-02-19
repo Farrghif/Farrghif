@@ -27,6 +27,9 @@
     <td align="center" valign="top">
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Farrghif&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
     </td>
+    <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrghif&theme=tokyonight"/>
+</p>
   </tr>
 </table>
 
