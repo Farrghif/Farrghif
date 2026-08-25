@@ -1,4 +1,4 @@
-
+hi
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Farrel%20ghifari&fontAlign=50&fontAlignY=35&descAlignY=50&textBg=false&fontSize=55&desc=ファレル・ギファリ%20(Fareru%20gifari)&descAlign=29)
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 ## 🧍 about me
