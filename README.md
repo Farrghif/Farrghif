@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,fastapi,sqlite,python,linux,java,bootstrap,arduino,gradle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,cs,fastapi,sqlite,python,linux,java,bootstrap,arduino&theme=dark" />
 </p>
 
 
