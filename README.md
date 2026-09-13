@@ -13,6 +13,7 @@
 
   ## 📞 Lets Connect
   
+<a href="https://www.linkedin.com/in/farrel-ghifari-87aa1b384/">![instagram](https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://instagram.com/farrelghifari14">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://discord.com/channels/@me">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)</a>
 
